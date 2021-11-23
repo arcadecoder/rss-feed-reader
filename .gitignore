@@ -1,2 +1,5 @@
 env
 db.sqlite3
+rssreader/rssreader/settings.py
+rssreader/settings.py
+settings.py
